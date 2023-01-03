@@ -20,3 +20,4 @@ Steps:
 
 >> evaluate.py: This is the. testing loop
                     
+>> Accuracy of the model for 10 epochs is 83% for 24 images
